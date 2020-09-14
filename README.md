@@ -1,4 +1,13 @@
 # Enterprise-Data-Science
 This repository includes an introductory data science project. This project is done as a part of my master program.
-Covid-19 pandameic data is collected from the John Hopkins repository. The data is processed and filtered.
-The data is visualized using an interactive dashboard. Dashboard is developed using Plotly-Dash.
+COVID-19 (Corona virus disease 2019) data is collected from the [John Hopkins repository](https://github.com/CSSEGISandData/COVID-19).
+The data is processed and filtered. An interactive dashboard is created to visualize the data and 
+the dashboard is developed using [Plotly-Dash](https://plotly.com/). 
+Object oriented programming approach is employed in this project. 
+Two different dashboards are created for better realization.
+
+Run "main_program.py" to visualize the data.
+data_science_project(False, False, True)
+First argument is for pulling data, second for updating the relational dataset and 
+third for the SIR (Susceptible, Infectious, or Recovered) model.
+See the code for more details.

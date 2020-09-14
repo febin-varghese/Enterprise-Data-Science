@@ -61697,7 +61697,7 @@ date;state;country;confirmed
 2020-09-09;no;Trinidad and Tobago;2588.0
 2020-09-09;no;Tunisia;5417.0
 2020-09-09;no;Turkey;284943.0
-2020-09-09;no;US;6361265.0
+2020-09-09;no;US;6360212.0
 2020-09-09;no;Uganda;4101.0
 2020-09-09;no;Ukraine;146511.0
 2020-09-09;no;United Arab Emirates;75981.0
@@ -61711,3 +61711,1067 @@ date;state;country;confirmed
 2020-09-09;no;Yemen;1999.0
 2020-09-09;no;Zambia;13112.0
 2020-09-09;no;Zimbabwe;7429.0
+2020-09-10;Alberta;Canada;15304.0
+2020-09-10;Anguilla;United Kingdom;3.0
+2020-09-10;Anhui;China;991.0
+2020-09-10;Aruba;Netherlands;2819.0
+2020-09-10;Australian Capital Territory;Australia;113.0
+2020-09-10;Beijing;China;935.0
+2020-09-10;Bermuda;United Kingdom;177.0
+2020-09-10;Bonaire, Sint Eustatius and Saba;Netherlands;25.0
+2020-09-10;British Columbia;Canada;6830.0
+2020-09-10;British Virgin Islands;United Kingdom;63.0
+2020-09-10;Cayman Islands;United Kingdom;208.0
+2020-09-10;Channel Islands;United Kingdom;631.0
+2020-09-10;Chongqing;China;584.0
+2020-09-10;Curacao;Netherlands;131.0
+2020-09-10;Diamond Princess;Canada;0.0
+2020-09-10;Falkland Islands (Malvinas);United Kingdom;13.0
+2020-09-10;Faroe Islands;Denmark;415.0
+2020-09-10;French Guiana;France;9462.0
+2020-09-10;French Polynesia;France;857.0
+2020-09-10;Fujian;China;387.0
+2020-09-10;Gansu;China;170.0
+2020-09-10;Gibraltar;United Kingdom;323.0
+2020-09-10;Grand Princess;Canada;13.0
+2020-09-10;Greenland;Denmark;14.0
+2020-09-10;Guadeloupe;France;2287.0
+2020-09-10;Guangdong;China;1774.0
+2020-09-10;Guangxi;China;257.0
+2020-09-10;Guizhou;China;147.0
+2020-09-10;Hainan;China;171.0
+2020-09-10;Hebei;China;365.0
+2020-09-10;Heilongjiang;China;948.0
+2020-09-10;Henan;China;1276.0
+2020-09-10;Hong Kong;China;4913.0
+2020-09-10;Hubei;China;68139.0
+2020-09-10;Hunan;China;1019.0
+2020-09-10;Inner Mongolia;China;261.0
+2020-09-10;Isle of Man;United Kingdom;337.0
+2020-09-10;Jiangsu;China;665.0
+2020-09-10;Jiangxi;China;935.0
+2020-09-10;Jilin;China;157.0
+2020-09-10;Liaoning;China;264.0
+2020-09-10;Macau;China;46.0
+2020-09-10;Manitoba;Canada;1378.0
+2020-09-10;Martinique;France;939.0
+2020-09-10;Mayotte;France;3374.0
+2020-09-10;Montserrat;United Kingdom;13.0
+2020-09-10;New Brunswick;Canada;193.0
+2020-09-10;New Caledonia;France;26.0
+2020-09-10;New South Wales;Australia;4152.0
+2020-09-10;Newfoundland and Labrador;Canada;270.0
+2020-09-10;Ningxia;China;75.0
+2020-09-10;Northern Territory;Australia;33.0
+2020-09-10;Northwest Territories;Canada;5.0
+2020-09-10;Nova Scotia;Canada;1086.0
+2020-09-10;Ontario;Canada;45887.0
+2020-09-10;Prince Edward Island;Canada;55.0
+2020-09-10;Qinghai;China;18.0
+2020-09-10;Quebec;Canada;64244.0
+2020-09-10;Queensland;Australia;1145.0
+2020-09-10;Reunion;France;2510.0
+2020-09-10;Saint Barthelemy;France;21.0
+2020-09-10;Saint Pierre and Miquelon;France;10.0
+2020-09-10;Saskatchewan;Canada;1676.0
+2020-09-10;Shaanxi;China;379.0
+2020-09-10;Shandong;China;831.0
+2020-09-10;Shanghai;China;937.0
+2020-09-10;Shanxi;China;203.0
+2020-09-10;Sichuan;China;665.0
+2020-09-10;Sint Maarten;Netherlands;530.0
+2020-09-10;South Australia;Australia;465.0
+2020-09-10;St Martin;France;256.0
+2020-09-10;Tasmania;Australia;230.0
+2020-09-10;Tianjin;China;233.0
+2020-09-10;Tibet;China;1.0
+2020-09-10;Turks and Caicos Islands;United Kingdom;638.0
+2020-09-10;Victoria;Australia;19767.0
+2020-09-10;Western Australia;Australia;659.0
+2020-09-10;Xinjiang;China;902.0
+2020-09-10;Yukon;Canada;15.0
+2020-09-10;Yunnan;China;201.0
+2020-09-10;Zhejiang;China;1278.0
+2020-09-10;no;Afghanistan;38572.0
+2020-09-10;no;Albania;10860.0
+2020-09-10;no;Algeria;47488.0
+2020-09-10;no;Andorra;1301.0
+2020-09-10;no;Angola;3217.0
+2020-09-10;no;Antigua and Barbuda;95.0
+2020-09-10;no;Argentina;524198.0
+2020-09-10;no;Armenia;45326.0
+2020-09-10;no;Austria;31247.0
+2020-09-10;no;Azerbaijan;37874.0
+2020-09-10;no;Bahamas;2721.0
+2020-09-10;no;Bahrain;58207.0
+2020-09-10;no;Bangladesh;332970.0
+2020-09-10;no;Barbados;180.0
+2020-09-10;no;Belarus;73591.0
+2020-09-10;no;Belgium;90568.0
+2020-09-10;no;Belize;1365.0
+2020-09-10;no;Benin;2242.0
+2020-09-10;no;Bhutan;238.0
+2020-09-10;no;Bolivia;124205.0
+2020-09-10;no;Bosnia and Herzegovina;22544.0
+2020-09-10;no;Botswana;2252.0
+2020-09-10;no;Brazil;4238446.0
+2020-09-10;no;Brunei;145.0
+2020-09-10;no;Bulgaria;17598.0
+2020-09-10;no;Burkina Faso;1486.0
+2020-09-10;no;Burma;2150.0
+2020-09-10;no;Burundi;469.0
+2020-09-10;no;Cabo Verde;4557.0
+2020-09-10;no;Cambodia;274.0
+2020-09-10;no;Cameroon;20009.0
+2020-09-10;no;Central African Republic;4747.0
+2020-09-10;no;Chad;1051.0
+2020-09-10;no;Chile;428669.0
+2020-09-10;no;Colombia;694664.0
+2020-09-10;no;Comoros;456.0
+2020-09-10;no;Congo (Brazzaville);4891.0
+2020-09-10;no;Congo (Kinshasa);10343.0
+2020-09-10;no;Costa Rica;52549.0
+2020-09-10;no;Cote d'Ivoire;18869.0
+2020-09-10;no;Croatia;12917.0
+2020-09-10;no;Cuba;4551.0
+2020-09-10;no;Cyprus;1517.0
+2020-09-10;no;Czechia;32413.0
+2020-09-10;no;Denmark;18924.0
+2020-09-10;no;Diamond Princess;712.0
+2020-09-10;no;Djibouti;5394.0
+2020-09-10;no;Dominica;24.0
+2020-09-10;no;Dominican Republic;101716.0
+2020-09-10;no;Ecuador;113206.0
+2020-09-10;no;Egypt;100557.0
+2020-09-10;no;El Salvador;26688.0
+2020-09-10;no;Equatorial Guinea;4990.0
+2020-09-10;no;Eritrea;361.0
+2020-09-10;no;Estonia;2600.0
+2020-09-10;no;Eswatini;4994.0
+2020-09-10;no;Ethiopia;62578.0
+2020-09-10;no;Fiji;32.0
+2020-09-10;no;Finland;8469.0
+2020-09-10;no;France;372501.0
+2020-09-10;no;Gabon;8621.0
+2020-09-10;no;Gambia;3330.0
+2020-09-10;no;Georgia;1830.0
+2020-09-10;no;Germany;258149.0
+2020-09-10;no;Ghana;45313.0
+2020-09-10;no;Greece;12452.0
+2020-09-10;no;Grenada;24.0
+2020-09-10;no;Guatemala;80306.0
+2020-09-10;no;Guinea;9946.0
+2020-09-10;no;Guinea-Bissau;2275.0
+2020-09-10;no;Guyana;1750.0
+2020-09-10;no;Haiti;8429.0
+2020-09-10;no;Holy See;12.0
+2020-09-10;no;Honduras;65802.0
+2020-09-10;no;Hungary;10191.0
+2020-09-10;no;Iceland;2157.0
+2020-09-10;no;India;4562414.0
+2020-09-10;no;Indonesia;207203.0
+2020-09-10;no;Iran;395488.0
+2020-09-10;no;Iraq;278418.0
+2020-09-10;no;Ireland;30360.0
+2020-09-10;no;Israel;145526.0
+2020-09-10;no;Italy;283180.0
+2020-09-10;no;Jamaica;3511.0
+2020-09-10;no;Japan;73916.0
+2020-09-10;no;Jordan;2739.0
+2020-09-10;no;Kazakhstan;106661.0
+2020-09-10;no;Kenya;35603.0
+2020-09-10;no;Korea, South;21919.0
+2020-09-10;no;Kosovo;12683.0
+2020-09-10;no;Kuwait;92822.0
+2020-09-10;no;Kyrgyzstan;44684.0
+2020-09-10;no;Laos;22.0
+2020-09-10;no;Latvia;1448.0
+2020-09-10;no;Lebanon;22437.0
+2020-09-10;no;Lesotho;1164.0
+2020-09-10;no;Liberia;1315.0
+2020-09-10;no;Libya;20939.0
+2020-09-10;no;Liechtenstein;109.0
+2020-09-10;no;Lithuania;3199.0
+2020-09-10;no;Luxembourg;7088.0
+2020-09-10;no;MS Zaandam;9.0
+2020-09-10;no;Madagascar;15624.0
+2020-09-10;no;Malawi;5655.0
+2020-09-10;no;Malaysia;9628.0
+2020-09-10;no;Maldives;8900.0
+2020-09-10;no;Mali;2909.0
+2020-09-10;no;Malta;2204.0
+2020-09-10;no;Mauritania;7222.0
+2020-09-10;no;Mauritius;361.0
+2020-09-10;no;Mexico;652364.0
+2020-09-10;no;Moldova;41704.0
+2020-09-10;no;Monaco;165.0
+2020-09-10;no;Mongolia;311.0
+2020-09-10;no;Montenegro;6222.0
+2020-09-10;no;Morocco;79767.0
+2020-09-10;no;Mozambique;4832.0
+2020-09-10;no;Namibia;9256.0
+2020-09-10;no;Nepal;50465.0
+2020-09-10;no;Netherlands;78511.0
+2020-09-10;no;New Zealand;1793.0
+2020-09-10;no;Nicaragua;4818.0
+2020-09-10;no;Niger;1178.0
+2020-09-10;no;Nigeria;55829.0
+2020-09-10;no;North Macedonia;15414.0
+2020-09-10;no;Norway;11867.0
+2020-09-10;no;Oman;88337.0
+2020-09-10;no;Pakistan;300371.0
+2020-09-10;no;Panama;99715.0
+2020-09-10;no;Papua New Guinea;507.0
+2020-09-10;no;Paraguay;25631.0
+2020-09-10;no;Peru;702776.0
+2020-09-10;no;Philippines;248947.0
+2020-09-10;no;Poland;72453.0
+2020-09-10;no;Portugal;62126.0
+2020-09-10;no;Qatar;121052.0
+2020-09-10;no;Romania;99684.0
+2020-09-10;no;Russia;1042836.0
+2020-09-10;no;Rwanda;4479.0
+2020-09-10;no;Saint Kitts and Nevis;17.0
+2020-09-10;no;Saint Lucia;27.0
+2020-09-10;no;Saint Vincent and the Grenadines;62.0
+2020-09-10;no;San Marino;722.0
+2020-09-10;no;Sao Tome and Principe;901.0
+2020-09-10;no;Saudi Arabia;323720.0
+2020-09-10;no;Senegal;14150.0
+2020-09-10;no;Serbia;32136.0
+2020-09-10;no;Seychelles;137.0
+2020-09-10;no;Sierra Leone;2069.0
+2020-09-10;no;Singapore;57229.0
+2020-09-10;no;Slovakia;5066.0
+2020-09-10;no;Slovenia;3389.0
+2020-09-10;no;Somalia;3371.0
+2020-09-10;no;South Africa;644438.0
+2020-09-10;no;South Sudan;2555.0
+2020-09-10;no;Spain;554143.0
+2020-09-10;no;Sri Lanka;3155.0
+2020-09-10;no;Sudan;13437.0
+2020-09-10;no;Suriname;4477.0
+2020-09-10;no;Sweden;86194.0
+2020-09-10;no;Switzerland;45711.0
+2020-09-10;no;Syria;3416.0
+2020-09-10;no;Taiwan*;496.0
+2020-09-10;no;Tajikistan;8939.0
+2020-09-10;no;Tanzania;509.0
+2020-09-10;no;Thailand;3461.0
+2020-09-10;no;Timor-Leste;27.0
+2020-09-10;no;Togo;1537.0
+2020-09-10;no;Trinidad and Tobago;2698.0
+2020-09-10;no;Tunisia;5882.0
+2020-09-10;no;Turkey;286455.0
+2020-09-10;no;US;6396100.0
+2020-09-10;no;Uganda;4291.0
+2020-09-10;no;Ukraine;149146.0
+2020-09-10;no;United Arab Emirates;76911.0
+2020-09-10;no;United Kingdom;358138.0
+2020-09-10;no;Uruguay;1759.0
+2020-09-10;no;Uzbekistan;45473.0
+2020-09-10;no;Venezuela;57823.0
+2020-09-10;no;Vietnam;1059.0
+2020-09-10;no;West Bank and Gaza;28664.0
+2020-09-10;no;Western Sahara;10.0
+2020-09-10;no;Yemen;2003.0
+2020-09-10;no;Zambia;13214.0
+2020-09-10;no;Zimbabwe;7453.0
+2020-09-11;Alberta;Canada;15415.0
+2020-09-11;Anguilla;United Kingdom;3.0
+2020-09-11;Anhui;China;991.0
+2020-09-11;Aruba;Netherlands;2898.0
+2020-09-11;Australian Capital Territory;Australia;113.0
+2020-09-11;Beijing;China;935.0
+2020-09-11;Bermuda;United Kingdom;177.0
+2020-09-11;Bonaire, Sint Eustatius and Saba;Netherlands;25.0
+2020-09-11;British Columbia;Canada;6962.0
+2020-09-11;British Virgin Islands;United Kingdom;63.0
+2020-09-11;Cayman Islands;United Kingdom;208.0
+2020-09-11;Channel Islands;United Kingdom;633.0
+2020-09-11;Chongqing;China;584.0
+2020-09-11;Curacao;Netherlands;135.0
+2020-09-11;Diamond Princess;Canada;0.0
+2020-09-11;Falkland Islands (Malvinas);United Kingdom;13.0
+2020-09-11;Faroe Islands;Denmark;416.0
+2020-09-11;French Guiana;France;9494.0
+2020-09-11;French Polynesia;France;953.0
+2020-09-11;Fujian;China;388.0
+2020-09-11;Gansu;China;170.0
+2020-09-11;Gibraltar;United Kingdom;323.0
+2020-09-11;Grand Princess;Canada;13.0
+2020-09-11;Greenland;Denmark;14.0
+2020-09-11;Guadeloupe;France;2287.0
+2020-09-11;Guangdong;China;1776.0
+2020-09-11;Guangxi;China;257.0
+2020-09-11;Guizhou;China;147.0
+2020-09-11;Hainan;China;171.0
+2020-09-11;Hebei;China;365.0
+2020-09-11;Heilongjiang;China;948.0
+2020-09-11;Henan;China;1276.0
+2020-09-11;Hong Kong;China;4925.0
+2020-09-11;Hubei;China;68139.0
+2020-09-11;Hunan;China;1019.0
+2020-09-11;Inner Mongolia;China;261.0
+2020-09-11;Isle of Man;United Kingdom;337.0
+2020-09-11;Jiangsu;China;665.0
+2020-09-11;Jiangxi;China;935.0
+2020-09-11;Jilin;China;157.0
+2020-09-11;Liaoning;China;264.0
+2020-09-11;Macau;China;46.0
+2020-09-11;Manitoba;Canada;1393.0
+2020-09-11;Martinique;France;939.0
+2020-09-11;Mayotte;France;3374.0
+2020-09-11;Montserrat;United Kingdom;13.0
+2020-09-11;New Brunswick;Canada;193.0
+2020-09-11;New Caledonia;France;26.0
+2020-09-11;New South Wales;Australia;4157.0
+2020-09-11;Newfoundland and Labrador;Canada;270.0
+2020-09-11;Ningxia;China;75.0
+2020-09-11;Northern Territory;Australia;33.0
+2020-09-11;Northwest Territories;Canada;5.0
+2020-09-11;Nova Scotia;Canada;1086.0
+2020-09-11;Ontario;Canada;46118.0
+2020-09-11;Prince Edward Island;Canada;55.0
+2020-09-11;Qinghai;China;18.0
+2020-09-11;Quebec;Canada;64463.0
+2020-09-11;Queensland;Australia;1149.0
+2020-09-11;Reunion;France;2623.0
+2020-09-11;Saint Barthelemy;France;21.0
+2020-09-11;Saint Pierre and Miquelon;France;10.0
+2020-09-11;Saskatchewan;Canada;1688.0
+2020-09-11;Shaanxi;China;380.0
+2020-09-11;Shandong;China;831.0
+2020-09-11;Shanghai;China;939.0
+2020-09-11;Shanxi;China;203.0
+2020-09-11;Sichuan;China;665.0
+2020-09-11;Sint Maarten;Netherlands;531.0
+2020-09-11;South Australia;Australia;466.0
+2020-09-11;St Martin;France;256.0
+2020-09-11;Tasmania;Australia;230.0
+2020-09-11;Tianjin;China;233.0
+2020-09-11;Tibet;China;1.0
+2020-09-11;Turks and Caicos Islands;United Kingdom;641.0
+2020-09-11;Victoria;Australia;19800.0
+2020-09-11;Western Australia;Australia;659.0
+2020-09-11;Xinjiang;China;902.0
+2020-09-11;Yukon;Canada;15.0
+2020-09-11;Yunnan;China;201.0
+2020-09-11;Zhejiang;China;1278.0
+2020-09-11;no;Afghanistan;38606.0
+2020-09-11;no;Albania;11021.0
+2020-09-11;no;Algeria;47752.0
+2020-09-11;no;Andorra;1344.0
+2020-09-11;no;Angola;3279.0
+2020-09-11;no;Antigua and Barbuda;95.0
+2020-09-11;no;Argentina;535705.0
+2020-09-11;no;Armenia;45503.0
+2020-09-11;no;Austria;31827.0
+2020-09-11;no;Azerbaijan;38037.0
+2020-09-11;no;Bahamas;2814.0
+2020-09-11;no;Bahrain;58839.0
+2020-09-11;no;Bangladesh;334762.0
+2020-09-11;no;Barbados;180.0
+2020-09-11;no;Belarus;73784.0
+2020-09-11;no;Belgium;91537.0
+2020-09-11;no;Belize;1435.0
+2020-09-11;no;Benin;2242.0
+2020-09-11;no;Bhutan;241.0
+2020-09-11;no;Bolivia;125172.0
+2020-09-11;no;Bosnia and Herzegovina;22834.0
+2020-09-11;no;Botswana;2252.0
+2020-09-11;no;Brazil;4282164.0
+2020-09-11;no;Brunei;145.0
+2020-09-11;no;Bulgaria;17799.0
+2020-09-11;no;Burkina Faso;1499.0
+2020-09-11;no;Burma;2422.0
+2020-09-11;no;Burundi;469.0
+2020-09-11;no;Cabo Verde;4651.0
+2020-09-11;no;Cambodia;274.0
+2020-09-11;no;Cameroon;20009.0
+2020-09-11;no;Central African Republic;4749.0
+2020-09-11;no;Chad;1081.0
+2020-09-11;no;Chile;430535.0
+2020-09-11;no;Colombia;702088.0
+2020-09-11;no;Comoros;456.0
+2020-09-11;no;Congo (Brazzaville);4928.0
+2020-09-11;no;Congo (Kinshasa);10361.0
+2020-09-11;no;Costa Rica;53969.0
+2020-09-11;no;Cote d'Ivoire;18916.0
+2020-09-11;no;Croatia;13107.0
+2020-09-11;no;Cuba;4593.0
+2020-09-11;no;Cyprus;1520.0
+2020-09-11;no;Czechia;33860.0
+2020-09-11;no;Denmark;19216.0
+2020-09-11;no;Diamond Princess;712.0
+2020-09-11;no;Djibouti;5394.0
+2020-09-11;no;Dominica;24.0
+2020-09-11;no;Dominican Republic;102232.0
+2020-09-11;no;Ecuador;114732.0
+2020-09-11;no;Egypt;100708.0
+2020-09-11;no;El Salvador;26773.0
+2020-09-11;no;Equatorial Guinea;4996.0
+2020-09-11;no;Eritrea;361.0
+2020-09-11;no;Estonia;2632.0
+2020-09-11;no;Eswatini;5025.0
+2020-09-11;no;Ethiopia;63367.0
+2020-09-11;no;Fiji;32.0
+2020-09-11;no;Finland;8512.0
+2020-09-11;no;France;381907.0
+2020-09-11;no;Gabon;8643.0
+2020-09-11;no;Gambia;3362.0
+2020-09-11;no;Georgia;1917.0
+2020-09-11;no;Germany;259735.0
+2020-09-11;no;Ghana;45388.0
+2020-09-11;no;Greece;12734.0
+2020-09-11;no;Grenada;24.0
+2020-09-11;no;Guatemala;81009.0
+2020-09-11;no;Guinea;9979.0
+2020-09-11;no;Guinea-Bissau;2275.0
+2020-09-11;no;Guyana;1763.0
+2020-09-11;no;Haiti;8457.0
+2020-09-11;no;Holy See;12.0
+2020-09-11;no;Honduras;66049.0
+2020-09-11;no;Hungary;10909.0
+2020-09-11;no;Iceland;2161.0
+2020-09-11;no;India;4659984.0
+2020-09-11;no;Indonesia;210940.0
+2020-09-11;no;Iran;397801.0
+2020-09-11;no;Iraq;282672.0
+2020-09-11;no;Ireland;30571.0
+2020-09-11;no;Israel;148564.0
+2020-09-11;no;Italy;284796.0
+2020-09-11;no;Jamaica;3511.0
+2020-09-11;no;Japan;74558.0
+2020-09-11;no;Jordan;2945.0
+2020-09-11;no;Kazakhstan;106729.0
+2020-09-11;no;Kenya;35793.0
+2020-09-11;no;Korea, South;22055.0
+2020-09-11;no;Kosovo;12683.0
+2020-09-11;no;Kuwait;93475.0
+2020-09-11;no;Kyrgyzstan;44761.0
+2020-09-11;no;Laos;23.0
+2020-09-11;no;Latvia;1459.0
+2020-09-11;no;Lebanon;22983.0
+2020-09-11;no;Lesotho;1245.0
+2020-09-11;no;Liberia;1315.0
+2020-09-11;no;Libya;21908.0
+2020-09-11;no;Liechtenstein;109.0
+2020-09-11;no;Lithuania;3243.0
+2020-09-11;no;Luxembourg;7088.0
+2020-09-11;no;MS Zaandam;9.0
+2020-09-11;no;Madagascar;15669.0
+2020-09-11;no;Malawi;5669.0
+2020-09-11;no;Malaysia;9810.0
+2020-09-11;no;Maldives;8990.0
+2020-09-11;no;Mali;2912.0
+2020-09-11;no;Malta;2247.0
+2020-09-11;no;Mauritania;7266.0
+2020-09-11;no;Mauritius;361.0
+2020-09-11;no;Mexico;658299.0
+2020-09-11;no;Moldova;42183.0
+2020-09-11;no;Monaco;168.0
+2020-09-11;no;Mongolia;311.0
+2020-09-11;no;Montenegro;6385.0
+2020-09-11;no;Morocco;82197.0
+2020-09-11;no;Mozambique;4918.0
+2020-09-11;no;Namibia;9437.0
+2020-09-11;no;Nepal;51919.0
+2020-09-11;no;Netherlands;79781.0
+2020-09-11;no;New Zealand;1795.0
+2020-09-11;no;Nicaragua;4818.0
+2020-09-11;no;Niger;1178.0
+2020-09-11;no;Nigeria;56017.0
+2020-09-11;no;North Macedonia;15555.0
+2020-09-11;no;Norway;12003.0
+2020-09-11;no;Oman;88337.0
+2020-09-11;no;Pakistan;300955.0
+2020-09-11;no;Panama;100330.0
+2020-09-11;no;Papua New Guinea;508.0
+2020-09-11;no;Paraguay;26512.0
+2020-09-11;no;Peru;710067.0
+2020-09-11;no;Philippines;252964.0
+2020-09-11;no;Poland;73047.0
+2020-09-11;no;Portugal;62813.0
+2020-09-11;no;Qatar;121287.0
+2020-09-11;no;Romania;101075.0
+2020-09-11;no;Russia;1048257.0
+2020-09-11;no;Rwanda;4534.0
+2020-09-11;no;Saint Kitts and Nevis;17.0
+2020-09-11;no;Saint Lucia;27.0
+2020-09-11;no;Saint Vincent and the Grenadines;64.0
+2020-09-11;no;San Marino;722.0
+2020-09-11;no;Sao Tome and Principe;906.0
+2020-09-11;no;Saudi Arabia;324407.0
+2020-09-11;no;Senegal;14193.0
+2020-09-11;no;Serbia;32228.0
+2020-09-11;no;Seychelles;138.0
+2020-09-11;no;Sierra Leone;2087.0
+2020-09-11;no;Singapore;57315.0
+2020-09-11;no;Slovakia;5252.0
+2020-09-11;no;Slovenia;3497.0
+2020-09-11;no;Somalia;3376.0
+2020-09-11;no;South Africa;646398.0
+2020-09-11;no;South Sudan;2568.0
+2020-09-11;no;Spain;566326.0
+2020-09-11;no;Sri Lanka;3169.0
+2020-09-11;no;Sudan;13470.0
+2020-09-11;no;Suriname;4529.0
+2020-09-11;no;Sweden;86505.0
+2020-09-11;no;Switzerland;46239.0
+2020-09-11;no;Syria;3476.0
+2020-09-11;no;Taiwan*;498.0
+2020-09-11;no;Tajikistan;8977.0
+2020-09-11;no;Tanzania;509.0
+2020-09-11;no;Thailand;3461.0
+2020-09-11;no;Timor-Leste;27.0
+2020-09-11;no;Togo;1548.0
+2020-09-11;no;Trinidad and Tobago;2825.0
+2020-09-11;no;Tunisia;6259.0
+2020-09-11;no;Turkey;288126.0
+2020-09-11;no;US;6443652.0
+2020-09-11;no;Uganda;4377.0
+2020-09-11;no;Ukraine;152373.0
+2020-09-11;no;United Arab Emirates;77842.0
+2020-09-11;no;United Kingdom;361677.0
+2020-09-11;no;Uruguay;1773.0
+2020-09-11;no;Uzbekistan;46160.0
+2020-09-11;no;Venezuela;58663.0
+2020-09-11;no;Vietnam;1060.0
+2020-09-11;no;West Bank and Gaza;29256.0
+2020-09-11;no;Western Sahara;10.0
+2020-09-11;no;Yemen;2007.0
+2020-09-11;no;Zambia;13323.0
+2020-09-11;no;Zimbabwe;7479.0
+2020-09-12;Alberta;Canada;15415.0
+2020-09-12;Anguilla;United Kingdom;3.0
+2020-09-12;Anhui;China;991.0
+2020-09-12;Aruba;Netherlands;2994.0
+2020-09-12;Australian Capital Territory;Australia;113.0
+2020-09-12;Beijing;China;935.0
+2020-09-12;Bermuda;United Kingdom;177.0
+2020-09-12;Bonaire, Sint Eustatius and Saba;Netherlands;25.0
+2020-09-12;British Columbia;Canada;6962.0
+2020-09-12;British Virgin Islands;United Kingdom;66.0
+2020-09-12;Cayman Islands;United Kingdom;208.0
+2020-09-12;Channel Islands;United Kingdom;633.0
+2020-09-12;Chongqing;China;584.0
+2020-09-12;Curacao;Netherlands;145.0
+2020-09-12;Diamond Princess;Canada;0.0
+2020-09-12;Falkland Islands (Malvinas);United Kingdom;13.0
+2020-09-12;Faroe Islands;Denmark;418.0
+2020-09-12;French Guiana;France;9521.0
+2020-09-12;French Polynesia;France;953.0
+2020-09-12;Fujian;China;388.0
+2020-09-12;Gansu;China;170.0
+2020-09-12;Gibraltar;United Kingdom;327.0
+2020-09-12;Grand Princess;Canada;13.0
+2020-09-12;Greenland;Denmark;14.0
+2020-09-12;Guadeloupe;France;3080.0
+2020-09-12;Guangdong;China;1777.0
+2020-09-12;Guangxi;China;258.0
+2020-09-12;Guizhou;China;147.0
+2020-09-12;Hainan;China;171.0
+2020-09-12;Hebei;China;365.0
+2020-09-12;Heilongjiang;China;948.0
+2020-09-12;Henan;China;1277.0
+2020-09-12;Hong Kong;China;4938.0
+2020-09-12;Hubei;China;68139.0
+2020-09-12;Hunan;China;1019.0
+2020-09-12;Inner Mongolia;China;261.0
+2020-09-12;Isle of Man;United Kingdom;337.0
+2020-09-12;Jiangsu;China;665.0
+2020-09-12;Jiangxi;China;935.0
+2020-09-12;Jilin;China;157.0
+2020-09-12;Liaoning;China;264.0
+2020-09-12;Macau;China;46.0
+2020-09-12;Manitoba;Canada;1410.0
+2020-09-12;Martinique;France;939.0
+2020-09-12;Mayotte;France;3374.0
+2020-09-12;Montserrat;United Kingdom;13.0
+2020-09-12;New Brunswick;Canada;193.0
+2020-09-12;New Caledonia;France;26.0
+2020-09-12;New South Wales;Australia;4166.0
+2020-09-12;Newfoundland and Labrador;Canada;271.0
+2020-09-12;Ningxia;China;75.0
+2020-09-12;Northern Territory;Australia;33.0
+2020-09-12;Northwest Territories;Canada;5.0
+2020-09-12;Nova Scotia;Canada;1086.0
+2020-09-12;Ontario;Canada;46323.0
+2020-09-12;Prince Edward Island;Canada;55.0
+2020-09-12;Qinghai;China;18.0
+2020-09-12;Quebec;Canada;64707.0
+2020-09-12;Queensland;Australia;1149.0
+2020-09-12;Reunion;France;2723.0
+2020-09-12;Saint Barthelemy;France;21.0
+2020-09-12;Saint Pierre and Miquelon;France;11.0
+2020-09-12;Saskatchewan;Canada;1709.0
+2020-09-12;Shaanxi;China;381.0
+2020-09-12;Shandong;China;831.0
+2020-09-12;Shanghai;China;942.0
+2020-09-12;Shanxi;China;203.0
+2020-09-12;Sichuan;China;665.0
+2020-09-12;Sint Maarten;Netherlands;533.0
+2020-09-12;South Australia;Australia;466.0
+2020-09-12;St Martin;France;256.0
+2020-09-12;Tasmania;Australia;230.0
+2020-09-12;Tianjin;China;234.0
+2020-09-12;Tibet;China;1.0
+2020-09-12;Turks and Caicos Islands;United Kingdom;641.0
+2020-09-12;Victoria;Australia;19835.0
+2020-09-12;Western Australia;Australia;659.0
+2020-09-12;Xinjiang;China;902.0
+2020-09-12;Yukon;Canada;15.0
+2020-09-12;Yunnan;China;201.0
+2020-09-12;Zhejiang;China;1280.0
+2020-09-12;no;Afghanistan;38641.0
+2020-09-12;no;Albania;11185.0
+2020-09-12;no;Algeria;48007.0
+2020-09-12;no;Andorra;1344.0
+2020-09-12;no;Angola;3335.0
+2020-09-12;no;Antigua and Barbuda;95.0
+2020-09-12;no;Argentina;546481.0
+2020-09-12;no;Armenia;45675.0
+2020-09-12;no;Austria;32696.0
+2020-09-12;no;Azerbaijan;38172.0
+2020-09-12;no;Bahamas;2928.0
+2020-09-12;no;Bahrain;59586.0
+2020-09-12;no;Bangladesh;336044.0
+2020-09-12;no;Barbados;180.0
+2020-09-12;no;Belarus;73975.0
+2020-09-12;no;Belgium;92478.0
+2020-09-12;no;Belize;1458.0
+2020-09-12;no;Benin;2242.0
+2020-09-12;no;Bhutan;244.0
+2020-09-12;no;Bolivia;125982.0
+2020-09-12;no;Bosnia and Herzegovina;23138.0
+2020-09-12;no;Botswana;2252.0
+2020-09-12;no;Brazil;4315687.0
+2020-09-12;no;Brunei;145.0
+2020-09-12;no;Bulgaria;17891.0
+2020-09-12;no;Burkina Faso;1514.0
+2020-09-12;no;Burma;2796.0
+2020-09-12;no;Burundi;471.0
+2020-09-12;no;Cabo Verde;4711.0
+2020-09-12;no;Cambodia;275.0
+2020-09-12;no;Cameroon;20009.0
+2020-09-12;no;Central African Republic;4749.0
+2020-09-12;no;Chad;1083.0
+2020-09-12;no;Chile;432666.0
+2020-09-12;no;Colombia;708964.0
+2020-09-12;no;Comoros;456.0
+2020-09-12;no;Congo (Brazzaville);4928.0
+2020-09-12;no;Congo (Kinshasa);10385.0
+2020-09-12;no;Costa Rica;55454.0
+2020-09-12;no;Cote d'Ivoire;18916.0
+2020-09-12;no;Croatia;13368.0
+2020-09-12;no;Cuba;4653.0
+2020-09-12;no;Cyprus;1523.0
+2020-09-12;no;Czechia;35401.0
+2020-09-12;no;Denmark;19557.0
+2020-09-12;no;Diamond Princess;712.0
+2020-09-12;no;Djibouti;5394.0
+2020-09-12;no;Dominica;24.0
+2020-09-12;no;Dominican Republic;103092.0
+2020-09-12;no;Ecuador;116451.0
+2020-09-12;no;Egypt;100856.0
+2020-09-12;no;El Salvador;26851.0
+2020-09-12;no;Equatorial Guinea;4996.0
+2020-09-12;no;Eritrea;361.0
+2020-09-12;no;Estonia;2655.0
+2020-09-12;no;Eswatini;5050.0
+2020-09-12;no;Ethiopia;63888.0
+2020-09-12;no;Fiji;32.0
+2020-09-12;no;Finland;8557.0
+2020-09-12;no;France;381907.0
+2020-09-12;no;Gabon;8643.0
+2020-09-12;no;Gambia;3376.0
+2020-09-12;no;Georgia;2075.0
+2020-09-12;no;Germany;260817.0
+2020-09-12;no;Ghana;45434.0
+2020-09-12;no;Greece;13036.0
+2020-09-12;no;Grenada;24.0
+2020-09-12;no;Guatemala;81658.0
+2020-09-12;no;Guinea;10020.0
+2020-09-12;no;Guinea-Bissau;2275.0
+2020-09-12;no;Guyana;1812.0
+2020-09-12;no;Haiti;8478.0
+2020-09-12;no;Holy See;12.0
+2020-09-12;no;Honduras;67136.0
+2020-09-12;no;Hungary;11825.0
+2020-09-12;no;Iceland;2162.0
+2020-09-12;no;India;4754356.0
+2020-09-12;no;Indonesia;214746.0
+2020-09-12;no;Iran;399940.0
+2020-09-12;no;Iraq;286778.0
+2020-09-12;no;Ireland;30730.0
+2020-09-12;no;Israel;152722.0
+2020-09-12;no;Italy;286297.0
+2020-09-12;no;Jamaica;3623.0
+2020-09-12;no;Japan;75206.0
+2020-09-12;no;Jordan;3062.0
+2020-09-12;no;Kazakhstan;106803.0
+2020-09-12;no;Kenya;35969.0
+2020-09-12;no;Korea, South;22176.0
+2020-09-12;no;Kosovo;12683.0
+2020-09-12;no;Kuwait;94211.0
+2020-09-12;no;Kyrgyzstan;44828.0
+2020-09-12;no;Laos;23.0
+2020-09-12;no;Latvia;1464.0
+2020-09-12;no;Lebanon;23669.0
+2020-09-12;no;Lesotho;1245.0
+2020-09-12;no;Liberia;1316.0
+2020-09-12;no;Libya;22348.0
+2020-09-12;no;Liechtenstein;111.0
+2020-09-12;no;Lithuania;3296.0
+2020-09-12;no;Luxembourg;7159.0
+2020-09-12;no;MS Zaandam;9.0
+2020-09-12;no;Madagascar;15737.0
+2020-09-12;no;Malawi;5678.0
+2020-09-12;no;Malaysia;9868.0
+2020-09-12;no;Maldives;9052.0
+2020-09-12;no;Mali;2916.0
+2020-09-12;no;Malta;2274.0
+2020-09-12;no;Mauritania;7274.0
+2020-09-12;no;Mauritius;361.0
+2020-09-12;no;Mexico;663973.0
+2020-09-12;no;Moldova;42714.0
+2020-09-12;no;Monaco;169.0
+2020-09-12;no;Mongolia;311.0
+2020-09-12;no;Montenegro;6530.0
+2020-09-12;no;Morocco;84435.0
+2020-09-12;no;Mozambique;5040.0
+2020-09-12;no;Namibia;9604.0
+2020-09-12;no;Nepal;53120.0
+2020-09-12;no;Netherlands;81012.0
+2020-09-12;no;New Zealand;1797.0
+2020-09-12;no;Nicaragua;4818.0
+2020-09-12;no;Niger;1178.0
+2020-09-12;no;Nigeria;56177.0
+2020-09-12;no;North Macedonia;15694.0
+2020-09-12;no;Norway;12079.0
+2020-09-12;no;Oman;88337.0
+2020-09-12;no;Pakistan;301481.0
+2020-09-12;no;Panama;101041.0
+2020-09-12;no;Papua New Guinea;508.0
+2020-09-12;no;Paraguay;27324.0
+2020-09-12;no;Peru;716670.0
+2020-09-12;no;Philippines;257863.0
+2020-09-12;no;Poland;73650.0
+2020-09-12;no;Portugal;63310.0
+2020-09-12;no;Qatar;121523.0
+2020-09-12;no;Romania;102386.0
+2020-09-12;no;Russia;1053663.0
+2020-09-12;no;Rwanda;4565.0
+2020-09-12;no;Saint Kitts and Nevis;17.0
+2020-09-12;no;Saint Lucia;27.0
+2020-09-12;no;Saint Vincent and the Grenadines;64.0
+2020-09-12;no;San Marino;722.0
+2020-09-12;no;Sao Tome and Principe;906.0
+2020-09-12;no;Saudi Arabia;325050.0
+2020-09-12;no;Senegal;14237.0
+2020-09-12;no;Serbia;32300.0
+2020-09-12;no;Seychelles;139.0
+2020-09-12;no;Sierra Leone;2096.0
+2020-09-12;no;Singapore;57357.0
+2020-09-12;no;Slovakia;5453.0
+2020-09-12;no;Slovenia;3603.0
+2020-09-12;no;Somalia;3376.0
+2020-09-12;no;South Africa;648214.0
+2020-09-12;no;South Sudan;2578.0
+2020-09-12;no;Spain;566326.0
+2020-09-12;no;Sri Lanka;3195.0
+2020-09-12;no;Sudan;13470.0
+2020-09-12;no;Suriname;4579.0
+2020-09-12;no;Sweden;86505.0
+2020-09-12;no;Switzerland;46704.0
+2020-09-12;no;Syria;3506.0
+2020-09-12;no;Taiwan*;498.0
+2020-09-12;no;Tajikistan;9014.0
+2020-09-12;no;Tanzania;509.0
+2020-09-12;no;Thailand;3473.0
+2020-09-12;no;Timor-Leste;27.0
+2020-09-12;no;Togo;1555.0
+2020-09-12;no;Trinidad and Tobago;2993.0
+2020-09-12;no;Tunisia;6635.0
+2020-09-12;no;Turkey;289635.0
+2020-09-12;no;US;6485123.0
+2020-09-12;no;Uganda;4703.0
+2020-09-12;no;Ukraine;155558.0
+2020-09-12;no;United Arab Emirates;78849.0
+2020-09-12;no;United Kingdom;365174.0
+2020-09-12;no;Uruguay;1780.0
+2020-09-12;no;Uzbekistan;46721.0
+2020-09-12;no;Venezuela;59630.0
+2020-09-12;no;Vietnam;1060.0
+2020-09-12;no;West Bank and Gaza;29906.0
+2020-09-12;no;Western Sahara;10.0
+2020-09-12;no;Yemen;2009.0
+2020-09-12;no;Zambia;13466.0
+2020-09-12;no;Zimbabwe;7508.0
+2020-09-13;Alberta;Canada;15415.0
+2020-09-13;Anguilla;United Kingdom;3.0
+2020-09-13;Anhui;China;991.0
+2020-09-13;Aruba;Netherlands;3046.0
+2020-09-13;Australian Capital Territory;Australia;113.0
+2020-09-13;Beijing;China;935.0
+2020-09-13;Bermuda;United Kingdom;177.0
+2020-09-13;Bonaire, Sint Eustatius and Saba;Netherlands;25.0
+2020-09-13;British Columbia;Canada;6962.0
+2020-09-13;British Virgin Islands;United Kingdom;66.0
+2020-09-13;Cayman Islands;United Kingdom;208.0
+2020-09-13;Channel Islands;United Kingdom;633.0
+2020-09-13;Chongqing;China;584.0
+2020-09-13;Curacao;Netherlands;157.0
+2020-09-13;Diamond Princess;Canada;0.0
+2020-09-13;Falkland Islands (Malvinas);United Kingdom;13.0
+2020-09-13;Faroe Islands;Denmark;423.0
+2020-09-13;French Guiana;France;9521.0
+2020-09-13;French Polynesia;France;953.0
+2020-09-13;Fujian;China;390.0
+2020-09-13;Gansu;China;170.0
+2020-09-13;Gibraltar;United Kingdom;330.0
+2020-09-13;Grand Princess;Canada;13.0
+2020-09-13;Greenland;Denmark;14.0
+2020-09-13;Guadeloupe;France;3080.0
+2020-09-13;Guangdong;China;1778.0
+2020-09-13;Guangxi;China;258.0
+2020-09-13;Guizhou;China;147.0
+2020-09-13;Hainan;China;171.0
+2020-09-13;Hebei;China;365.0
+2020-09-13;Heilongjiang;China;948.0
+2020-09-13;Henan;China;1277.0
+2020-09-13;Hong Kong;China;4957.0
+2020-09-13;Hubei;China;68139.0
+2020-09-13;Hunan;China;1019.0
+2020-09-13;Inner Mongolia;China;261.0
+2020-09-13;Isle of Man;United Kingdom;337.0
+2020-09-13;Jiangsu;China;665.0
+2020-09-13;Jiangxi;China;935.0
+2020-09-13;Jilin;China;157.0
+2020-09-13;Liaoning;China;264.0
+2020-09-13;Macau;China;46.0
+2020-09-13;Manitoba;Canada;1428.0
+2020-09-13;Martinique;France;939.0
+2020-09-13;Mayotte;France;3374.0
+2020-09-13;Montserrat;United Kingdom;13.0
+2020-09-13;New Brunswick;Canada;193.0
+2020-09-13;New Caledonia;France;26.0
+2020-09-13;New South Wales;Australia;4170.0
+2020-09-13;Newfoundland and Labrador;Canada;271.0
+2020-09-13;Ningxia;China;75.0
+2020-09-13;Northern Territory;Australia;33.0
+2020-09-13;Northwest Territories;Canada;5.0
+2020-09-13;Nova Scotia;Canada;1086.0
+2020-09-13;Ontario;Canada;46485.0
+2020-09-13;Prince Edward Island;Canada;55.0
+2020-09-13;Qinghai;China;18.0
+2020-09-13;Quebec;Canada;64986.0
+2020-09-13;Queensland;Australia;1149.0
+2020-09-13;Reunion;France;2805.0
+2020-09-13;Saint Barthelemy;France;21.0
+2020-09-13;Saint Pierre and Miquelon;France;11.0
+2020-09-13;Saskatchewan;Canada;1726.0
+2020-09-13;Shaanxi;China;381.0
+2020-09-13;Shandong;China;831.0
+2020-09-13;Shanghai;China;947.0
+2020-09-13;Shanxi;China;203.0
+2020-09-13;Sichuan;China;665.0
+2020-09-13;Sint Maarten;Netherlands;549.0
+2020-09-13;South Australia;Australia;466.0
+2020-09-13;St Martin;France;256.0
+2020-09-13;Tasmania;Australia;230.0
+2020-09-13;Tianjin;China;234.0
+2020-09-13;Tibet;China;1.0
+2020-09-13;Turks and Caicos Islands;United Kingdom;646.0
+2020-09-13;Victoria;Australia;19872.0
+2020-09-13;Western Australia;Australia;659.0
+2020-09-13;Xinjiang;China;902.0
+2020-09-13;Yukon;Canada;15.0
+2020-09-13;Yunnan;China;203.0
+2020-09-13;Zhejiang;China;1280.0
+2020-09-13;no;Afghanistan;38716.0
+2020-09-13;no;Albania;11353.0
+2020-09-13;no;Algeria;48254.0
+2020-09-13;no;Andorra;1344.0
+2020-09-13;no;Angola;3388.0
+2020-09-13;no;Antigua and Barbuda;95.0
+2020-09-13;no;Argentina;555537.0
+2020-09-13;no;Armenia;45862.0
+2020-09-13;no;Austria;33159.0
+2020-09-13;no;Azerbaijan;38327.0
+2020-09-13;no;Bahamas;2928.0
+2020-09-13;no;Bahrain;60307.0
+2020-09-13;no;Bangladesh;337520.0
+2020-09-13;no;Barbados;181.0
+2020-09-13;no;Belarus;74173.0
+2020-09-13;no;Belgium;93455.0
+2020-09-13;no;Belize;1480.0
+2020-09-13;no;Benin;2267.0
+2020-09-13;no;Bhutan;245.0
+2020-09-13;no;Bolivia;126791.0
+2020-09-13;no;Bosnia and Herzegovina;23465.0
+2020-09-13;no;Botswana;2252.0
+2020-09-13;no;Brazil;4330455.0
+2020-09-13;no;Brunei;145.0
+2020-09-13;no;Bulgaria;17918.0
+2020-09-13;no;Burkina Faso;1707.0
+2020-09-13;no;Burma;3015.0
+2020-09-13;no;Burundi;472.0
+2020-09-13;no;Cabo Verde;4813.0
+2020-09-13;no;Cambodia;275.0
+2020-09-13;no;Cameroon;20167.0
+2020-09-13;no;Central African Republic;4749.0
+2020-09-13;no;Chad;1084.0
+2020-09-13;no;Chile;434748.0
+2020-09-13;no;Colombia;716319.0
+2020-09-13;no;Comoros;456.0
+2020-09-13;no;Congo (Brazzaville);4928.0
+2020-09-13;no;Congo (Kinshasa);10390.0
+2020-09-13;no;Costa Rica;55454.0
+2020-09-13;no;Cote d'Ivoire;19013.0
+2020-09-13;no;Croatia;13533.0
+2020-09-13;no;Cuba;4684.0
+2020-09-13;no;Cyprus;1526.0
+2020-09-13;no;Czechia;36188.0
+2020-09-13;no;Denmark;19890.0
+2020-09-13;no;Diamond Princess;712.0
+2020-09-13;no;Djibouti;5395.0
+2020-09-13;no;Dominica;24.0
+2020-09-13;no;Dominican Republic;103660.0
+2020-09-13;no;Ecuador;118594.0
+2020-09-13;no;Egypt;101009.0
+2020-09-13;no;El Salvador;26928.0
+2020-09-13;no;Equatorial Guinea;4996.0
+2020-09-13;no;Eritrea;361.0
+2020-09-13;no;Estonia;2676.0
+2020-09-13;no;Eswatini;5075.0
+2020-09-13;no;Ethiopia;64301.0
+2020-09-13;no;Fiji;32.0
+2020-09-13;no;Finland;8580.0
+2020-09-13;no;France;381907.0
+2020-09-13;no;Gabon;8643.0
+2020-09-13;no;Gambia;3405.0
+2020-09-13;no;Georgia;2227.0
+2020-09-13;no;Germany;261737.0
+2020-09-13;no;Ghana;45434.0
+2020-09-13;no;Greece;13240.0
+2020-09-13;no;Grenada;24.0
+2020-09-13;no;Guatemala;81909.0
+2020-09-13;no;Guinea;10045.0
+2020-09-13;no;Guinea-Bissau;2275.0
+2020-09-13;no;Guyana;1853.0
+2020-09-13;no;Haiti;8493.0
+2020-09-13;no;Holy See;12.0
+2020-09-13;no;Honduras;67789.0
+2020-09-13;no;Hungary;12309.0
+2020-09-13;no;Iceland;2165.0
+2020-09-13;no;India;4754356.0
+2020-09-13;no;Indonesia;218382.0
+2020-09-13;no;Iran;402029.0
+2020-09-13;no;Iraq;290309.0
+2020-09-13;no;Ireland;30985.0
+2020-09-13;no;Israel;155604.0
+2020-09-13;no;Italy;287753.0
+2020-09-13;no;Jamaica;3771.0
+2020-09-13;no;Japan;75646.0
+2020-09-13;no;Jordan;3314.0
+2020-09-13;no;Kazakhstan;106855.0
+2020-09-13;no;Kenya;36157.0
+2020-09-13;no;Korea, South;22285.0
+2020-09-13;no;Kosovo;12683.0
+2020-09-13;no;Kuwait;94764.0
+2020-09-13;no;Kyrgyzstan;44881.0
+2020-09-13;no;Laos;23.0
+2020-09-13;no;Latvia;1474.0
+2020-09-13;no;Lebanon;24310.0
+2020-09-13;no;Lesotho;1245.0
+2020-09-13;no;Liberia;1319.0
+2020-09-13;no;Libya;22781.0
+2020-09-13;no;Liechtenstein;111.0
+2020-09-13;no;Lithuania;3335.0
+2020-09-13;no;Luxembourg;7159.0
+2020-09-13;no;MS Zaandam;9.0
+2020-09-13;no;Madagascar;15757.0
+2020-09-13;no;Malawi;5690.0
+2020-09-13;no;Malaysia;9915.0
+2020-09-13;no;Maldives;9173.0
+2020-09-13;no;Mali;2924.0
+2020-09-13;no;Malta;2352.0
+2020-09-13;no;Mauritania;7276.0
+2020-09-13;no;Mauritius;361.0
+2020-09-13;no;Mexico;668381.0
+2020-09-13;no;Moldova;42978.0
+2020-09-13;no;Monaco;171.0
+2020-09-13;no;Mongolia;311.0
+2020-09-13;no;Montenegro;6712.0
+2020-09-13;no;Morocco;86686.0
+2020-09-13;no;Mozambique;5269.0
+2020-09-13;no;Namibia;9719.0
+2020-09-13;no;Nepal;54159.0
+2020-09-13;no;Netherlands;82099.0
+2020-09-13;no;New Zealand;1798.0
+2020-09-13;no;Nicaragua;4818.0
+2020-09-13;no;Niger;1180.0
+2020-09-13;no;Nigeria;56256.0
+2020-09-13;no;North Macedonia;15791.0
+2020-09-13;no;Norway;12154.0
+2020-09-13;no;Oman;89746.0
+2020-09-13;no;Pakistan;302020.0
+2020-09-13;no;Panama;101745.0
+2020-09-13;no;Papua New Guinea;510.0
+2020-09-13;no;Paraguay;27817.0
+2020-09-13;no;Peru;722832.0
+2020-09-13;no;Philippines;261216.0
+2020-09-13;no;Poland;74152.0
+2020-09-13;no;Portugal;63983.0
+2020-09-13;no;Qatar;121740.0
+2020-09-13;no;Romania;103495.0
+2020-09-13;no;Russia;1059024.0
+2020-09-13;no;Rwanda;4591.0
+2020-09-13;no;Saint Kitts and Nevis;17.0
+2020-09-13;no;Saint Lucia;27.0
+2020-09-13;no;Saint Vincent and the Grenadines;64.0
+2020-09-13;no;San Marino;722.0
+2020-09-13;no;Sao Tome and Principe;906.0
+2020-09-13;no;Saudi Arabia;325651.0
+2020-09-13;no;Senegal;14280.0
+2020-09-13;no;Serbia;32408.0
+2020-09-13;no;Seychelles;139.0
+2020-09-13;no;Sierra Leone;2109.0
+2020-09-13;no;Singapore;57406.0
+2020-09-13;no;Slovakia;5532.0
+2020-09-13;no;Slovenia;3702.0
+2020-09-13;no;Somalia;3389.0
+2020-09-13;no;South Africa;649793.0
+2020-09-13;no;South Sudan;2578.0
+2020-09-13;no;Spain;566326.0
+2020-09-13;no;Sri Lanka;3234.0
+2020-09-13;no;Sudan;13516.0
+2020-09-13;no;Suriname;4582.0
+2020-09-13;no;Sweden;86505.0
+2020-09-13;no;Switzerland;47179.0
+2020-09-13;no;Syria;3540.0
+2020-09-13;no;Taiwan*;498.0
+2020-09-13;no;Tajikistan;9049.0
+2020-09-13;no;Tanzania;509.0
+2020-09-13;no;Thailand;3475.0
+2020-09-13;no;Timor-Leste;27.0
+2020-09-13;no;Togo;1572.0
+2020-09-13;no;Trinidad and Tobago;3042.0
+2020-09-13;no;Tunisia;6635.0
+2020-09-13;no;Turkey;291162.0
+2020-09-13;no;US;6519573.0
+2020-09-13;no;Uganda;4799.0
+2020-09-13;no;Ukraine;158122.0
+2020-09-13;no;United Arab Emirates;79489.0
+2020-09-13;no;United Kingdom;368504.0
+2020-09-13;no;Uruguay;1808.0
+2020-09-13;no;Uzbekistan;47287.0
+2020-09-13;no;Venezuela;60540.0
+2020-09-13;no;Vietnam;1063.0
+2020-09-13;no;West Bank and Gaza;30574.0
+2020-09-13;no;Western Sahara;10.0
+2020-09-13;no;Yemen;2011.0
+2020-09-13;no;Zambia;13539.0
+2020-09-13;no;Zimbabwe;7526.0
