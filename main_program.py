@@ -32,7 +32,7 @@ def data_science_project(pull_data=False, process_data=False, sir_dashboard=True
 
 
 if __name__ == "__main__":
-    visualize_data = True
+    visualize_data = False
     if visualize_data:
         data_science_project(False, False, False)
     else:
