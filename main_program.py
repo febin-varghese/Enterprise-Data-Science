@@ -14,9 +14,9 @@ def calculation(data_obj):
     data_obj.save_final_results()
 
 
-def data_science_project(pull_data=False, process_data=False, sir_dashboard=True):
+def data_science_project(pull_data=False, sir_dashboard=True):
     data_object = Data(pull_data)
-    if process_data:
+    if pull_data:  # process data only if new data is pulled
         # process data
         data_object.store_relational_data()
         # filtering and doubling rate calculation
@@ -34,7 +34,7 @@ def data_science_project(pull_data=False, process_data=False, sir_dashboard=True
 if __name__ == "__main__":
     visualize_data = False
     if visualize_data:
-        data_science_project(False, False, False)
+        data_science_project(False, False)
     else:
         # visualize SIR model curves
-        data_science_project(False, False, True)
+        data_science_project(False, True)
