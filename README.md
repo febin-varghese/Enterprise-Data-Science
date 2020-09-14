@@ -8,6 +8,4 @@ Two different dashboards are created for better realization.
 
 Run "main_program.py" to visualize the data.
 data_science_project(False, False, True)
-First argument is for pulling data, second for updating the relational dataset and 
-third for the SIR (Susceptible, Infectious, or Recovered) model.
 See the code for more details.
